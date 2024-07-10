@@ -1,0 +1,3 @@
+牛客上最简单的WebServer项目
+1、epoll ET模式和线程池实现模拟Proactor的并发模型
+2、解析HTTP请求报文和生成响应报文。
